@@ -8,3 +8,7 @@ Portfolio for CS 4375 - Intro to Machine Learning
 
 [View Homework 2 Code Here](Homework2/main.cpp)
 
+[View Homework 3 Regression](Homework3/Regression.pdf)
+
+[View Homework 3 Classification](Homework3/Classification.pdf)
+
