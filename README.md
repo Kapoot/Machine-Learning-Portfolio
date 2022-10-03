@@ -12,3 +12,8 @@ Portfolio for CS 4375 - Intro to Machine Learning
 
 [View Homework 3 Classification](Homework3/Classification.pdf)
 
+[View Homework 4 Code Here](Homework4/ML From Scratch.cpp)
+
+[View Homework4 Summary Here](Homework4/Overview of Homework 4.pdf)
+
+
