@@ -18,4 +18,6 @@ Portfolio for CS 4375 - Intro to Machine Learning
 
 [View Homework 5 Here](HW5%20-%20Similarity)
 
+[View Homework 6 Here](Homework6)
+
 
