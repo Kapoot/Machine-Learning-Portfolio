@@ -20,4 +20,6 @@ Portfolio for CS 4375 - Intro to Machine Learning
 
 [View Homework 6 Here](Homework6)
 
+[View Homework 7 Here](DK-Homework7.pdf)
+
 
